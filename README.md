@@ -7,10 +7,10 @@ I perform different operation inside the data like:
 3. Data Visualization
 
 Tools used in the projects.
-	Matplotlib
-	Seaborn
-	Pandas
-	Numpy
-	Python
+	a)Matplotlib
+	b)Seaborn
+	c)Pandas
+	d)Numpy
+	e)Python
 
 Jupyter Notebook is used for a text editor.
