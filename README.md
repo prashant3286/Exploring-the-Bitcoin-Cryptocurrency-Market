@@ -1,16 +1,16 @@
 # Exploring-the-Bitcoin-Cryptocurrency-Market
-This is the real-time project from the learning website Datacamp.com where I explore different insights from the given data.
+This is the real-time project from the learning website [Datacamp.com](www.datacamp.com) where I explore different insights from the given data.
 
-I perform different operation inside the data like:
+**Different operation perform inside the data are:**
 1. Data Cleaning
 2. Exploratory Data Analysis
 3. Data Visualization
 
-Tools used in the projects.
+# Tools used in the Projects:
 1. Matplotlib
 2. Seaborn
 3. Pandas
 4. Numpy
-5. Python
 
-Jupyter Notebook is used for a text editor.
+
+**Note:** Jupyter Notebook is used for a text editor.
